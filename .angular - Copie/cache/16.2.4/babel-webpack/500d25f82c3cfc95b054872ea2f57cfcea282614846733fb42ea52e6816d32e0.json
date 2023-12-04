@@ -1,0 +1,1 @@
+{"ast":null,"code":"['./header.component.scss'];\nexport {};","map":{"version":3,"names":[],"sources":["C:\\Users\\MSI\\tp\\src\\app\\header\\header.component.ts"],"sourcesContent":["import {MatToolbar} from '@angular/material/toolbar';\n\n['./header.component.scss']\n\n\n"],"mappings":"AAEA,CAAC,yBAAyB,CAAC"},"metadata":{},"sourceType":"module","externalDependencies":[]}
